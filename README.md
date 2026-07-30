@@ -1,12 +1,12 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/anthropic-header.svg" alt="Looking Inside Language Models" width="100%">
+</p>
 
-Looking Inside Language Models
-
-A logit lens experiment inspired by Anthropic's research on verbalizable representations
-
-
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-D97757?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TransformerLens-Interpretability-F7F4ED?style=for-the-badge&labelColor=191919" alt="TransformerLens">
+  <img src="https://img.shields.io/badge/Research-Logit%20Lens-191919?style=for-the-badge" alt="Logit Lens">
+</p>
 
 Main question: Can a language model represent a concept internally even when that concept does not appear in its final output?
 
